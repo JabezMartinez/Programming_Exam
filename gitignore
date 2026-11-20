@@ -1,0 +1,15 @@
+# Compiled output
+build/
+*.exe
+*.o
+*.obj
+*.out
+
+# IDE / editor files
+.vscode/
+.idea/
+*.dev
+*.layout
+*.depend
+*.cbp
+.vs/
